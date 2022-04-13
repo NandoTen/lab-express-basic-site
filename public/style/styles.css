@@ -1,0 +1,122 @@
+.image-inicio {
+    width: 80%;
+    margin: 40px auto;
+    display: block;
+}
+
+.container-index {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-color: black;
+}
+
+.container-index img {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    width: fit-content;
+}
+
+.gallery h1 {
+    text-align: center;
+}
+
+.works {
+    margin: 0 30px;
+    padding: 0 30px;
+}
+
+.works h5 {
+
+    text-align: center;
+
+}
+
+.works h1 {
+    text-align: center;
+}
+
+.works img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.about {
+    margin-bottom: 50px;
+}
+
+.about h1 {
+    text-align: center;
+}
+
+
+.container-fluid {
+    background-color: #000000;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.btn-primary {
+    display: block;
+    margin-top: 20px;
+}
+
+.card-img-top {
+    height: 150px;
+    margin: 0 auto;
+    object-fit: scale-down;
+}
+
+.card-body a {
+    text-decoration: none;
+    color: black;
+}
+
+.card {
+    border: none;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.tagline {
+    color: gray;
+}
+
+.description {
+    font-size: .8em;
+}
+
+.random {
+    margin-top: 50px;
+}
+
+.random img {
+    height: 250px;
+}
+
+.random ul {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.random ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none
+}
+
+footer {
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
